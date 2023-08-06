@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sairam Chandavale</h1>
 <h3 align="center">I am a MSc Statistics student , passionate about statistical programming and always learning new ways of data analysis.</h3>
-img align="right" alt="Coding" width="400" src="https://www.crumplab.com/statistics/imgs/gifs/corRealgif-1.gif"
+<img align="right" alt="Coding" width="400" src="https://www.crumplab.com/statistics/imgs/gifs/corRealgif-1.gif">
 
 - 🔭 I’m currently working on 1] Bitcoin and Cryptocurrency.
                               2]Oliver stock market prediction
